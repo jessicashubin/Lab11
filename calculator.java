@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
 
+		//this is an added comment for lab11!
+
         Scanner scanner = new Scanner(System.in);
 
         //declare variables
